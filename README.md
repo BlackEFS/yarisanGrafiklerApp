@@ -1,2 +1,4 @@
 # yarisanGrafiklerApp
-React ile basit şekilde müşteri sayısı olan random olarak gelen değere göre değişen grafik .
+React ile yapılmıştır. Basit şekilde müşteri sayısı  random değer atayıp random gelen değere göre değişen grafik.
+ npm run start ile çalışır.
+ 
